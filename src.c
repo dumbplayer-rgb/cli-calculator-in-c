@@ -12,6 +12,13 @@ int main(){
 	switch(selection){
 		case 1:
 			printf("Addition selected\n");
+			int a0;
+			printf("enter first number ");
+			scanf("%d",&a0);
+			int a1;
+			scanf("%d",&a1);
+			int AS = a0 + a1;
+			printf("%d",AS);
 			break;
 		case 2: 
 			printf("subtraction selected\n");
