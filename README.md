@@ -1,2 +1,4 @@
-# cli-calculator-in-c
-A cli calculator writen in C
+# calculators written in different languages
+Calculators written in different languages
+In:
+  python, c
